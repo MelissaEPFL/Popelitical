@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages!
 ### Popelitical Project
+![image](data/popefrancis.png)
 
 This is a project about the Pope
 You can use the [editor on GitHub](https://github.com/MelissaEPFL/ADA-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
