@@ -1,3 +1,9 @@
 theme: jekyll-theme-slate
 title: Let's make it Pope-litical!
-cover-img: "data/popefrancis.png"
+#cover-img: "data/popefrancis.png"
+---
+cover_image: url("../data/popefrancis.jpg")
+header_text_color: "rbga(255, 255, 255, 1.0)"
+#site_header_text_color: "rgba(105, 81, 62, 0.8)"
+#site_header_border_color: "rgba(105, 81, 62, 0.5)"
+---
