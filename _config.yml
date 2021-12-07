@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: Let's make it Pope-litical!
-navbar-img: "/data/popefrancis.jpg"
+navbar-img: "/data/popefrancis.png"
 #cover-img: "data/popefrancis.png"
 
 #cover_image: url("../data/popefrancis.jpg")
