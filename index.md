@@ -1,4 +1,5 @@
-### Investigation of the Pope's political position
+## Investigation of the Pope's political position
+
 ![image](data/popefrancis.png)
 
 At first glance, one might think that the Pope does not have much impact on our everyday life and on our country’s politics, yet he influences over 1.3 billion Catholics worldwide and regularly meets with the most powerful political figures of the planet.  
