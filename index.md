@@ -1,6 +1,4 @@
-![image](data/popefrancis.png)
-
-![image](data/popefrancisUN.jpg)
+![image](data/popefrancis2.jpg)
 
 At first glance, one might think that the Pope does not have much impact on our everyday life and on our country’s politics, yet he influences over 1.3 billion Catholics worldwide and regularly meets with the most powerful political figures of the planet.  
 Here, we want to investigate how one of the mightiest apolitical figures on Earth influences one sixth of the world population by using a novel quotations corpus : **Quotebank**.  
