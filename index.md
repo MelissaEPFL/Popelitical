@@ -6,7 +6,15 @@ Here, we want to investigate how one of the mightiest apolitical figures on Eart
 The main idea is therefore to try to situate the Pope on a political spectrum, here the American political system, using characteristics extracted from the corpus of his quotes. This will help us determine whether such an influential and, suposedly, non-political figure can be aligned with a certain political party or not.
 
 
-## What features are relevant to extract?
 ## What are the most used lexical fields?
+![image](output/Barplot_most_prominent_lexical_fields_across_categories.jpg)
+
+![image](output/Correlation_matrix_each_category.jpg)
+
+![image](output/Top_lexical_fields_each_category.jpg)
+
+![image](output/Venn_most_prominent_lexical_fields_across_categories.jpg)
+
+
 ## Can we place the Pope on a political spectrum?
 (Find topics that are shared between the Pope and each party)
