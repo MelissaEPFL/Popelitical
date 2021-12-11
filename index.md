@@ -7,14 +7,13 @@ The main idea is therefore to try to situate the Pope on a political spectrum, h
 
 
 ## What are the most used lexical fields?
-![image](output/Barplot_most_prominent_lexical_fields_across_categories.jpg)
-
 ![image](output/Top_lexical_fields_each_category.jpg)
+
+![image](output/Barplot_most_prominent_lexical_fields_across_categories.jpg)
 
 ![image](output/Venn_most_prominent_lexical_fields_across_categories.jpg)
 
-![image](output/Correlation_matrix_each_category.jpg)
-
+<img src="output/Correlation_matrix_each_category.jpg" width="50%" height="50%">
 
 ## Can we place the Pope on a political spectrum?
 (Find topics that are shared between the Pope and each party)
