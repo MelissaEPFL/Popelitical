@@ -25,22 +25,24 @@ Below is a summary table of the speakers chosen for each party.
 | Ben Carson     | Republican| ?               |
 | Nikki Haley     | Republican| ?               |
 
-## What are the most used lexical fields?
+## How do the Pope's quotes relate to those of the Democratic and Republican party? 
 First, to investigate the Pope's position on the American political spectrum, it would be very meaningful to extract and analyse the most discussed topics by each party and by the Pope. A relevant way to do this is to study the most used lexical fields in the quotes of each speaker.  
 
+### What lexical fields are used?
 Let's first take a look at all the the lexical field categories that are used by each group.
-
 
 ![image](output/Top_lexical_fields_each_category.jpg)
 
 We obserbe that the results are coherent for both political parties (with lexical fields such as governement, business, leader, politics, economics, law) but also for a religious figure such as the Pope (with divine, worship and religion).
 
+### Do the lexical fields of the Pope correlate with those of the two parties?
 Then, we further investigate the correlation in the use of lexical fields between each group.
 
 <img src="output/Correlation_matrix_each_category.jpg" width="50%" height="50%">
 
 The lexical fields between Republicans and Democrats are highly correlated (0.94). This seems consistent because even though the two parties approach issues differently and have different opinions, they both most likely use very political language. In contrast, the Pope's lexical fields correlate poorly with those of both political parties, but slightly more with those of the Republicans (0.45) than those of the Democrats (0.39).
 
+### What are the most shared topics between the groups?
 ![image](output/Barplot_most_prominent_lexical_fields_across_categories.jpg)
 
 ![image](output/Venn_most_prominent_lexical_fields_across_categories.jpg)
@@ -48,4 +50,3 @@ The lexical fields between Republicans and Democrats are highly correlated (0.94
 
 
 ## Can we place the Pope on a political spectrum?
-(Find topics that are shared between the Pope and each party)
