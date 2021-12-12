@@ -5,8 +5,24 @@ Here, we want to investigate how one of the mightiest apolitical figures on Eart
 
 The main idea is therefore to try to situate the Pope on a political spectrum, here the American political system, using characteristics extracted from the corpus of his quotes. This will help us determine whether such an influential and, suposedly, non-political figure can be aligned with a certain political party or not.
 
+## On what political spectrum can we try to place the Pope?
+The political spectrum we chose to place the Pope on is the American bipartite system with on one end the Democratic Party and on the other the Republican Party. This spectrum is particularly suited to our analysis because the Quotebank corpus is in English and most of the quotes are extracted from American newspapers, thus a high number of quotations are from American politicians.  
+This analysis is therefore divided into three groups: the Democrates, the Republicans and the Pope.  
+Below is a summary table of the speakers chosen for each party.
+
+| Political figure | Party      | Predicted position   | Number of quotations |
+|------------------|------------|----------------------|----------------------|
+| Elizabeth Warren | Democratic | Edge Democrates      | 48'397               |
+| Bernie Sanders   | Democratic | Edge Democrates      | 84'018               |
+| Hillary Clinton  | Democratic | Central Democrates   | 95'458               |
+| Ted Cruz         | Republican| Edge Republicans     | 46'301               |
+| Mike Pence       | Republican| Edge Republicans     | 46'893               |
+| Mitt Romney      | Republican| Central Republicans  | 10'651               |
 
 ## What are the most used lexical fields?
+
+A relevant way to analyze the most discussed topics by each party is to study the lexical fields their speakers use.
+Here is below a t
 ![image](output/Top_lexical_fields_each_category.jpg)
 
 ![image](output/Barplot_most_prominent_lexical_fields_across_categories.jpg)
