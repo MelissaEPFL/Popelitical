@@ -7,7 +7,7 @@ The main idea is therefore to try to situate the Pope on a political spectrum, h
 
 ## On what political spectrum can we try to place the Pope?
 The political spectrum we choose to place the Pope on is the **American bipartite system** with on one end the Democratic Party and on the other the Republican Party. This spectrum is particularly suited to our analysis because the Quotebank corpus is in English and most of the quotes are extracted from American newspapers, thus a high number of quotations are from American politicians.  
-This analysis is therefore divided into three groups: the ***Democrates***, the ***Republicans*** and the ***Pope***.  
+This analysis is therefore divided into three groups: the **Democrates**, the **Republicans** and the **Pope**.  
 Below is a summary table of the speakers chosen for each party.
 
 | Political figure | Party      |Number of quotations |
@@ -33,7 +33,7 @@ Let's first take a look at all the the lexical field categories that are used by
 
 ![image](output/Top_lexical_fields_each_category.jpg)
 
-We obserbe that the results are coherent for both political parties (with lexical fields such as governement, business, leader, politics, economics, law) but also for a religious figure such as the Pope (with divine, worship and religion).
+We observe that the results are coherent for both political parties (with lexical fields such as governement, business, leader, politics, economics, law) but also for a religious figure such as the Pope (with divine, worship and religion).
 
 ### Do the lexical fields of the Pope correlate with those of the two parties?
 Then, we further investigate the correlation in the use of lexical fields between each group.
