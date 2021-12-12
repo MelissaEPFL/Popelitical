@@ -15,15 +15,15 @@ Below is a summary table of the speakers chosen for each party.
 | Elizabeth Warren | Democratic | 48'397               |
 | Bernie Sanders   | Democratic | 84'018               |
 | Hillary Clinton  | Democratic | 95'458               |
-| Kamala Harris    | Democratic | ?                    |
-| Pete Buttigieg   | Democratic | ?                    |
-| Alexandria Ocasio-Cortez  | Democratic | ?                    |
+| Kamala Harris    | Democratic | 19'091               |
+| Pete Buttigieg   | Democratic | 24'523              |
+| Alexandria Ocasio-Cortez  | Democratic | 18'653     |
 | Ted Cruz         | Republican| 46'301               |
 | Mike Pence       | Republican| 46'893               |
 | Mitt Romney      | Republican| 10'651               |
-| Marco Rubio      | Republican| ?               |
-| Ben Carson     | Republican| ?               |
-| Nikki Haley     | Republican| ?               |
+| Marco Rubio      | Republican| 41'650               |
+| Ben Carson     | Republican| 22'448                 |
+| Nikki Haley     | Republican| 24'533               |
 
 ## How do the Pope's quotes relate to those of the Democratic and Republican party? 
 First, to investigate the Pope's position on the American political spectrum, it would be very meaningful to extract and analyse the most discussed topics by each party and by the Pope. A relevant way to do this is to study the most used lexical fields in the quotes of each speaker.  
