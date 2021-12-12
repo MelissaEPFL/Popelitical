@@ -10,25 +10,25 @@ The political spectrum we choose to place the Pope on is the American bipartite 
 This analysis is therefore divided into three groups: the Democrates, the Republicans and the Pope.  
 Below is a summary table of the speakers chosen for each party.
 
-| Political figure | Party      | Predicted position   | Number of quotations |
-|------------------|------------|----------------------|----------------------|
-| Elizabeth Warren | Democratic | Edge Democrates      | 48'397               |
-| Bernie Sanders   | Democratic | Edge Democrates      | 84'018               |
-| Hillary Clinton  | Democratic | Central Democrates   | 95'458               |
-| Kamala Harris    | Democratic | ?                    | ?                    |
-| Pete Buttigieg   | Democratic | ?                    | ?                    |
-| Alexandria Ocasio-Cortez  | Democratic | ?                    | ?                    |
-| Ted Cruz         | Republican| Edge Republicans     | 46'301               |
-| Mike Pence       | Republican| Edge Republicans     | 46'893               |
-| Mitt Romney      | Republican| Central Republicans  | 10'651               |
-| Marco Rubio      | Republican| ?  | ?               |
-| Ben Carson     | Republican| ?  | ?               |
-| Nikki Haley     | Republican| ?  | ?               |
+| Political figure | Party      |Number of quotations |
+|------------------|------------|----------------------|
+| Elizabeth Warren | Democratic | 48'397               |
+| Bernie Sanders   | Democratic | 84'018               |
+| Hillary Clinton  | Democratic | 95'458               |
+| Kamala Harris    | Democratic | ?                    |
+| Pete Buttigieg   | Democratic | ?                    |
+| Alexandria Ocasio-Cortez  | Democratic | ?                    |
+| Ted Cruz         | Republican| 46'301               |
+| Mike Pence       | Republican| 46'893               |
+| Mitt Romney      | Republican| 10'651               |
+| Marco Rubio      | Republican| ?               |
+| Ben Carson     | Republican| ?               |
+| Nikki Haley     | Republican| ?               |
 
 ## What are the most used lexical fields?
-
-A relevant way to analyze the most discussed topics by each party is to study the lexical fields their speakers use.
-Here is below a t
+First, to investigate the Pope's position on the American political spectrum, it would be very meaningful to extract and analyse the most discussed topics by each party and by the Pope.  
+A relevant way to do this is to study the most used lexical fields in the quotes of each speaker. 
+Let's first take a look at all the the lexical field categories that are used by each group.
 ![image](output/Top_lexical_fields_each_category.jpg)
 
 ![image](output/Barplot_most_prominent_lexical_fields_across_categories.jpg)
