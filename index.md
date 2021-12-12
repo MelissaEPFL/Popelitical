@@ -26,8 +26,11 @@ Below is a summary table of the speakers chosen for each party.
 | Nikki Haley     | Republican| ?               |
 
 ## What are the most used lexical fields?
-First, to investigate the Pope's position on the American political spectrum, it would be very meaningful to extract and analyse the most discussed topics by each party and by the Pope. A relevant way to do this is to study the most used lexical fields in the quotes of each speaker.   
+First, to investigate the Pope's position on the American political spectrum, it would be very meaningful to extract and analyse the most discussed topics by each party and by the Pope. A relevant way to do this is to study the most used lexical fields in the quotes of each speaker.  
+
 Let's first take a look at all the the lexical field categories that are used by each group.
+
+
 ![image](output/Top_lexical_fields_each_category.jpg)
 
 ![image](output/Barplot_most_prominent_lexical_fields_across_categories.jpg)
