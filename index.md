@@ -15,9 +15,15 @@ Below is a summary table of the speakers chosen for each party.
 | Elizabeth Warren | Democratic | Edge Democrates      | 48'397               |
 | Bernie Sanders   | Democratic | Edge Democrates      | 84'018               |
 | Hillary Clinton  | Democratic | Central Democrates   | 95'458               |
+| Kamala Harris    | Democratic | ?                    | ?                    |
+| Pete Buttigieg   | Democratic | ?                    | ?                    |
+| Alexandria Ocasio-Cortez  | Democratic | ?                    | ?                    |
 | Ted Cruz         | Republican| Edge Republicans     | 46'301               |
 | Mike Pence       | Republican| Edge Republicans     | 46'893               |
 | Mitt Romney      | Republican| Central Republicans  | 10'651               |
+| Marco Rubio      | Republican| ?  | ?               |
+| Ben Carson     | Republican| ?  | ?               |
+| Nikki Haley     | Republican| ?  | ?               |
 
 ## What are the most used lexical fields?
 
