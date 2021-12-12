@@ -33,11 +33,19 @@ Let's first take a look at all the the lexical field categories that are used by
 
 ![image](output/Top_lexical_fields_each_category.jpg)
 
+- The most used lexical fields are coherent for political parties (lexical fields such as governement, business, leader, politics, economics, law, ...) and for a religious figure (divine, worship, religion)
+
+But we further investigate the correlation in the use of lexical fields between each group.
+
+<img src="output/Correlation_matrix_each_category.jpg" width="50%" height="50%">
+
+- The lexical fields between Republicans and Democrats are highly correlated (0.94). This seems consistent because even though the two parties approach issues differently and have different opinions, they both most likely use very political language. In contrast, the Pope's lexical fields correlate poorly with those of both political parties, but slightly more with those of the Republicans (0.45) than those of the Democrats (0.39).
+
 ![image](output/Barplot_most_prominent_lexical_fields_across_categories.jpg)
 
 ![image](output/Venn_most_prominent_lexical_fields_across_categories.jpg)
 
-<img src="output/Correlation_matrix_each_category.jpg" width="50%" height="50%">
+
 
 ## Can we place the Pope on a political spectrum?
 (Find topics that are shared between the Pope and each party)
