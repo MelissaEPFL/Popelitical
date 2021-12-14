@@ -44,6 +44,9 @@ Then, we further investigate the correlation in the use of lexical fields betwee
 
 The lexical fields between Republicans and Democrats are highly correlated (0.94). This seems consistent because even though the two parties approach issues differently and have different opinions, they both most likely use very political language. In contrast, the Pope's lexical fields correlate poorly with those of both political parties, but slightly more with those of the Republicans (0.45) than those of the Democrats (0.39). 
 
+{% include radar_chart_features.html %}
+
+
 ### What are the most shared topics between the groups?
 We select the 15 most common lexical fields for all three categories and observe theirs relative use and importance
 ![image](output/Barplot_most_prominent_lexical_fields_across_categories.jpg)
