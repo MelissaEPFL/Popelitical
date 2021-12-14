@@ -5,7 +5,7 @@ Here, we want to investigate how one of the mightiest apolitical figures on Eart
 
 The main idea is therefore to try to situate the Pope on a political spectrum, here the American political system, using characteristics extracted from the corpus of his quotes. This will help us determine whether such an influential and, suposedly, non-political figure can be aligned with a certain political party or not.
 
-![image](output/wordcloud_edge.png)
+<img src="output/wordcloud_edge.png" width="60%" height="60%">
 
 ## On what political spectrum can we try to place the Pope?
 The political spectrum we choose to place the Pope on is the **American bipartite system** with on one end the Democratic Party and on the other the Republican Party. This spectrum is particularly suited to our analysis because the Quotebank corpus is in English and most of the quotes are extracted from American newspapers, thus a high number of quotations are from American politicians.  
