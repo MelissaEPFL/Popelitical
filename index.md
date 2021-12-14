@@ -35,9 +35,6 @@ Let's first take a look at all the the lexical field categories that are used by
 
 ![image](output/Top_lexical_fields_each_category.jpg)
 
-![image](output/horizontal_bar_plot.html)
-
-
 We observe that the results are coherent for both political parties (with most frequent lexical fields such as governement, business, leader, politics, economics, law) but also for a religious figure such as the Pope (with divine, worship and religion).
 
 ### Do the lexical fields of the Pope correlate with those of the two parties?
