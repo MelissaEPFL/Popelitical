@@ -33,7 +33,7 @@ First, to investigate the Pope's position on the American political spectrum, it
 ### What lexical fields are used?
 Let's first take a look at all the the lexical field categories that are used by each group.
 
-![image](output/Top_lexical_fields_each_category.jpg)
+{% include horizontal_bar_plot.html %}
 
 We observe that the results are coherent for both political parties (with most frequent lexical fields such as governement, business, leader, politics, economics, law) but also for a religious figure such as the Pope (with divine, worship and religion).
 
