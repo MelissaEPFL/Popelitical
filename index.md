@@ -18,20 +18,15 @@ We divide our speakers into three categories: **Democrates**, **Republicans** an
 
 </div>  
   
-| Political figure | Party      |Number of quotations |     | Political figure | Party      |Number of quotations |  | Political figure | Party      |Number of quotations | 
-|------------------|------------|----------------------|    |------------------|------------|----------------------| |------------------|------------|----------------------|
-| Elizabeth Warren | Democratic | 48'397               |    | Ted Cruz         | Republican| 46'301               |  | Pope Francis        | Apolitical| 102'993            |
+| Political figure | Party      |Number of quotations |     | Political figure | Party      |Number of quotations |  
+|------------------|------------|----------------------|    |------------------|------------|----------------------| 
+| Elizabeth Warren | Democratic | 48'397               |    | Ted Cruz         | Republican| 46'301               |  
 | Bernie Sanders   | Democratic | 84'018               |    | Mike Pence       | Republican| 46'893               |
 | Hillary Clinton  | Democratic | 95'458               |    | Mitt Romney      | Republican| 10'651               |
 | Kamala Harris    | Democratic | 19'091               |    | Marco Rubio      | Republican| 41'650               |
 | Pete Buttigieg   | Democratic | 24'523              |     | Ben Carson     | Republican| 22'448                 |
 | Alexandria Ocasio-Cortez  | Democratic | 18'653     |     | Nikki Haley     | Republican| 24'533               |
-| Ted Cruz         | Republican| 46'301               | 
-| Mike Pence       | Republican| 46'893               |
-| Mitt Romney      | Republican| 10'651               |
-| Marco Rubio      | Republican| 41'650               |
-| Ben Carson     | Republican| 22'448                 |
-| Nikki Haley     | Republican| 24'533               |
+| Pope Francis        | Apolitical| 102'993            |
 
 ## What topics do they like to talk about? 
 First, to investigate the Pope's position on the American political spectrum, it would be very meaningful to extract and analyse the most discussed topics by each party and by the Pope. A relevant way to do this is to study the most used lexical fields in the quotes of each speaker.  
