@@ -1,30 +1,39 @@
 ![image](data/popefrancis2.jpg)
 
+<div style="text-align: justify"> 
+
 At first glance, one might think that the Pope does not have much impact on our everyday life and on our country’s politics, yet his opinion affects over 1.3 billion Catholics worldwide and regularly meets with the most powerful political figures of the planet. Here, we want to investigate how one of the mightiest apolitical figures on Earth influences one sixth of the world population by using a novel quotations corpus : **Quotebank**. 
 
 Our main approach consists in placing the Pope on the American political spectrum, alongside to a few emblematic Democrates and Republicans politicians, by extracting meaningful features from the quote corpus of each of our selected speakers. More precisely, we focused on analysing how important key topics such as politics, economics, war and religion were to our speakers by looking at the prominent lexical fields present in their statements.
 
-## On what political spectrum can we try to place the Pope?
-The political spectrum we choose to place the Pope on is the **American bipartite system** with on one end the Democratic Party and on the other the Republican Party. This spectrum is particularly suited to our analysis because the Quotebank corpus is in English and most of the quotes are extracted from American newspapers, thus a high number of quotations are from American politicians.  
-This analysis is therefore divided into three groups: the **Democrates**, the **Republicans** and the **Pope**.  
-Below is a summary table of the speakers chosen for each party.
+</div>
+  
+## Why the American political spectrum?
 
-| Political figure | Party      |Number of quotations |
-|------------------|------------|----------------------|
-| Elizabeth Warren | Democratic | 48'397               |
-| Bernie Sanders   | Democratic | 84'018               |
-| Hillary Clinton  | Democratic | 95'458               |
-| Kamala Harris    | Democratic | 19'091               |
-| Pete Buttigieg   | Democratic | 24'523              |
-| Alexandria Ocasio-Cortez  | Democratic | 18'653     |
-| Ted Cruz         | Republican| 46'301               |
+<div style="text-align: justify"> 
+
+We chose to place the Pope on the **American bipartite political spectrum** which comprises at its two ends the Democratic Party and the Republican Party. This spectrum is particularly suited for our analysis, first, because the Quotebank corpus main language is English which means that a significant portion of the quotes originate from american politicians and secondly because choosing a binary spectrum simplifies our analysis a lot.
+  
+We divide our speakers into three categories: **Democrates**, **Republicans** and the **Pope**. Here we briefly summarize which speakers we chose to integrate into our analysis and how many quotes they pronouced along the Quotebank data sets between 2015 and 2020.
+
+</div>  
+  
+| Political figure | Party      |Number of quotations |     | Political figure | Party      |Number of quotations |  | Political figure | Party      |Number of quotations | 
+|------------------|------------|----------------------|    |------------------|------------|----------------------| |------------------|------------|----------------------|
+| Elizabeth Warren | Democratic | 48'397               |    | Ted Cruz         | Republican| 46'301               |  | Pope Francis        | Apolitical| 102'993            |
+| Bernie Sanders   | Democratic | 84'018               |    | Mike Pence       | Republican| 46'893               |
+| Hillary Clinton  | Democratic | 95'458               |    | Mitt Romney      | Republican| 10'651               |
+| Kamala Harris    | Democratic | 19'091               |    | Marco Rubio      | Republican| 41'650               |
+| Pete Buttigieg   | Democratic | 24'523              |     | Ben Carson     | Republican| 22'448                 |
+| Alexandria Ocasio-Cortez  | Democratic | 18'653     |     | Nikki Haley     | Republican| 24'533               |
+| Ted Cruz         | Republican| 46'301               | 
 | Mike Pence       | Republican| 46'893               |
 | Mitt Romney      | Republican| 10'651               |
 | Marco Rubio      | Republican| 41'650               |
 | Ben Carson     | Republican| 22'448                 |
 | Nikki Haley     | Republican| 24'533               |
 
-## How do the Pope's quotes relate to those of the Democratic and Republican party? 
+## What topics do they like to talk about? 
 First, to investigate the Pope's position on the American political spectrum, it would be very meaningful to extract and analyse the most discussed topics by each party and by the Pope. A relevant way to do this is to study the most used lexical fields in the quotes of each speaker.  
 
 ### What lexical fields are used?
