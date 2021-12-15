@@ -11,25 +11,46 @@ We chose to place the Pope on the **American bipartite political spectrum** whic
   
 We divide our speakers into three categories: **Democrates**, **Republicans** and the **Pope**. Here we briefly summarize which speakers we chose to integrate into our analysis and how many quotes they pronouced along the Quotebank data sets between 2015 and 2020.
 
-  
+<style>
+.heatMap {
+    width: 70%;
+    text-align: center;
+}
+.heatMap th {
+background: grey;
+word-wrap: break-word;
+text-align: center;
+}
+.heatMap tr:nth-child(1) { background: blue; }
+.heatMap tr:nth-child(2) { background: blue; }
+.heatMap tr:nth-child(3) { background: blue; }
+.heatMap tr:nth-child(4) { background: red; }
+.heatMap tr:nth-child(5) { background: red; }
+.heatMap tr:nth-child(6) { background: red; }
+.heatMap tr:nth-child(3) { background: yellow; }
+</style>
+
+<div class="heatMap">
+
 | Political figure | Party      |Number of quotations |     | Political figure | Party      |Number of quotations |  
 |------------------|------------|----------------------|    |------------------|------------|----------------------| 
-| Elizabeth Warren | Democratic | 48'397               |    | Ted Cruz         | Republican| 46'301               |  
-| Bernie Sanders   | Democratic | 84'018               |    | Mike Pence       | Republican| 46'893               |
-| Hillary Clinton  | Democratic | 95'458               |    | Mitt Romney      | Republican| 10'651               |
-| Kamala Harris    | Democratic | 19'091               |    | Marco Rubio      | Republican| 41'650               |
-| Pete Buttigieg   | Democratic | 24'523              |     | Ben Carson     | Republican| 22'448                 |
-| Alexandria Ocasio-Cortez  | Democratic | 18'653     |     | Nikki Haley     | Republican| 24'533               |
+| Elizabeth Warren | Democratic | 48'397               |    | Kamala Harris    | Democratic | 19'091               | 
+| Bernie Sanders   | Democratic | 84'018               |    | Pete Buttigieg   | Democratic | 24'523              | 
+| Hillary Clinton  | Democratic | 95'458               |    | Alexandria Ocasio-Cortez  | Democratic | 18'653     | 
+| Ted Cruz         | Republican| 46'301               |  | Marco Rubio      | Republican| 41'650               |
+| Mike Pence       | Republican| 46'893               |  | Ben Carson     | Republican| 22'448                 |
+| Mitt Romney      | Republican| 10'651               |  | Nikki Haley     | Republican| 24'533               |   
 | Pope Francis        | Apolitical| 102'993            |
+  
+ </div>  
 
 ## What topics do they like to talk about? 
   
-First, to investigate the Pope's position on the American political spectrum, it would be very meaningful to extract and analyse the most discussed topics by each party and by the Pope. A relevant way to do this is to study the most used lexical fields in the quotes of each speaker.  
-
-### What lexical fields are used?
-Let's first take a look at all the the lexical field categories that are used by each group.
+We begin our investigation by looking at how our three categories of speakers choose their words and what topics they fancy talking about the most. To do so, we analyzed the prevalence, summarized by a mean score, of 200 distinct lexical fields within the quotation corpus of our three categories:
 
 ![image](output/Top_lexical_fields_each_category.jpg)
+
+Those first results are coherent as they show that our two political categories often talk about 
 
 We observe that the results are coherent for both political parties (with most frequent lexical fields such as governement, business, leader, politics, economics, law) but also for a religious figure such as the Pope (with divine, worship and religion).
 
@@ -53,3 +74,7 @@ We select the 15 most common lexical fields for all three categories and observe
 <img src="output/wordcloud_edge.png" width="30%" height="30%">
 ## Can we place the Pope on a political spectrum?
 Partie sur la PCA
+
+
+
+Small disclaimer concerning the fact that we use quotes relayed by the media: there is a bias
