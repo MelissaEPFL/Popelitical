@@ -11,27 +11,6 @@ We chose to place the Pope on the **American bipartite political spectrum** whic
   
 We divide our speakers into three categories: **Democrates**, **Republicans** and the **Pope**. Here we briefly summarize which speakers we chose to integrate into our analysis and how many quotes they pronouced along the Quotebank data sets between 2015 and 2020.
 
-<style>
-.heatMap {
-    width: 70%;
-    text-align: center;
-}
-.heatMap th {
-background: grey;
-word-wrap: break-word;
-text-align: center;
-}
-.heatMap tr:nth-child(1) { background: blue; }
-.heatMap tr:nth-child(2) { background: blue; }
-.heatMap tr:nth-child(3) { background: blue; }
-.heatMap tr:nth-child(4) { background: red; }
-.heatMap tr:nth-child(5) { background: red; }
-.heatMap tr:nth-child(6) { background: red; }
-.heatMap tr:nth-child(3) { background: yellow; }
-</style>
-
-<div class="heatMap">
-
 | Political figure | Party      |Number of quotations |     | Political figure | Party      |Number of quotations |  
 |------------------|------------|----------------------|    |------------------|------------|----------------------| 
 | Elizabeth Warren | Democratic | 48'397               |    | Kamala Harris    | Democratic | 19'091               | 
@@ -42,17 +21,15 @@ text-align: center;
 | Mitt Romney      | Republican| 10'651               |  | Nikki Haley     | Republican| 24'533               |   
 | Pope Francis        | Apolitical| 102'993            |
   
- </div>  
-
 ## What topics do they like to talk about? 
   
 We begin our investigation by looking at how our three categories of speakers choose their words and what topics they fancy talking about the most. To do so, we analyzed the prevalence, summarized by a mean score, of 200 distinct lexical fields within the quotation corpus of our three categories:
 
 ![image](output/Top_lexical_fields_each_category.jpg)
 
-Those first results are coherent as they show that our two political categories often talk about 
+Those first results are make a lot of sense as they show that our two political categories often talk about government, business, leader, politics and law while the pope prefers to talk about religion, divine and worship-related topics. As an example, the worship lexical field score increases when the pope uses words such as : "pray", "lord", "bless", "glory" or "cult". At the bottom of the graph, we find the most rarely used lexical fields with notably the exotic, smell and ugliness lexical fields.  
 
-We observe that the results are coherent for both political parties (with most frequent lexical fields such as governement, business, leader, politics, economics, law) but also for a religious figure such as the Pope (with divine, worship and religion).
+
 
 ### Do the lexical fields of the Pope correlate with those of the two parties?
 Then, we further investigate the correlation in the use of lexical fields between each group.
