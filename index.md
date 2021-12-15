@@ -9,7 +9,7 @@ Our main approach consists in placing the Pope on the American political spectru
 
 We chose to place the Pope on the **American bipartite political spectrum** which comprises at its two ends the Democratic Party and the Republican Party. This spectrum is particularly suited for our analysis, first, because the Quotebank corpus main language is English which means that a significant portion of the quotes originate from american politicians and secondly because choosing a binary spectrum simplifies our analysis a lot.
   
-We divide our speakers into three categories: **Democrats**, **Republicans** and the **Pope**. Here we briefly summarize which speakers we chose to integrate into our analysis and how many quotes they pronouced along the Quotebank data sets between 2015 and 2020.
+We divided our speakers into three categories: **Democrats**, **Republicans** and the **Pope**. Here we briefly summarize which speakers we chose to integrate into our analysis and how many quotes they pronouced along the Quotebank data sets between 2015 and 2020.
 
 | Political figure | Party      |Number of quotations |     | Political figure | Party      |Number of quotations |  
 |------------------|------------|----------------------|    |------------------|------------|----------------------| 
@@ -38,17 +38,24 @@ As a next analysis, we wanted to determine how similar or different the usage of
 The lexical fields scores of the Republicans and Democrats are very strongly correlated (0.94). This could be due to the fact that even though the two parties have different opinions, they allocate similar importance to the same topics. On the other hand, the Pope's lexical fields scores correlate more modestly with those of of the Democrats and Repuclicans. From this measure, he seems to be slightly closer from the Republicans (0.45) than from the Democrats (0.39).  
 
 
+We then decided to focus on the 15 most prominent lexical fields of our three categories, removed the dupplicates and compared their relative use:
 
-### What are the most shared topics between the groups?
-We select the 15 most common lexical fields for all three categories and observe theirs relative use and importance
 {% include horizontal_bar_plot.html %}
 
-![image](output/Venn_most_prominent_lexical_fields_across_categories.jpg)
+As we can see, the pope seem to give up the political topics such as government, business, politics, leader, law, money, banking, dispute and payment to the real politicians. As the head of the Church, he is logically more commonly refering to religion-related topics such as worship, religion, love, divine, death and wedding than the politicians. Interestingly, the lexical fields of the family, children, home, positive emotions and optimism are also dominated by the pope. Concerning the family, children and home lexical fields, it might be due to the fact the pope uses the terms "brothers and sisters", "father", "mother" and "son" a lot, eventhough he barely uses the litteral meaning of those terms. Concerning the optimism and positive emotions lexical fields, they include terms like compassion, forgiveness, love, kindness, hope and faith which can all be seen as Christian values.
+
+Alternatively, we present here the same results as in the previous graph for a hand-picked selection of lexical field using a radio chart in order to emphasize how different the profile of the pope is in comparison with the profiles of the Democrats and Republicans.
 
 {% include radar_chart_features.html %}
 
 
+
+![image](output/Venn_most_prominent_lexical_fields_across_categories.jpg)
+
+
+
 <img src="output/wordcloud_edge.png" width="30%" height="30%">
+
 ## Can we place the Pope on a political spectrum?
 Partie sur la PCA
 
