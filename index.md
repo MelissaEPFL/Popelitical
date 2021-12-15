@@ -2,8 +2,6 @@
 
 At first glance, one might think that the Pope does not have much impact on our everyday life and on our country’s politics, yet he influences over 1.3 billion Catholics worldwide and regularly meets with the most powerful political figures of the planet. Here, we want to investigate how one of the mightiest apolitical figures on Earth influences one sixth of the world population by using a novel quotations corpus : **Quotebank**. Our main approach consisted in placing the Pope on the binary American political spectrum by using characteristics extracted from his quotes. Our whole analysis goal consists in determining whether such an influential and, suposedly, non-political figure can be aligned with a certain political party or not.
 
-<img src="output/wordcloud_edge.png" width="30%" height="30%">
-
 ## On what political spectrum can we try to place the Pope?
 The political spectrum we choose to place the Pope on is the **American bipartite system** with on one end the Democratic Party and on the other the Republican Party. This spectrum is particularly suited to our analysis because the Quotebank corpus is in English and most of the quotes are extracted from American newspapers, thus a high number of quotations are from American politicians.  
 This analysis is therefore divided into three groups: the **Democrates**, the **Republicans** and the **Pope**.  
@@ -51,6 +49,6 @@ We select the 15 most common lexical fields for all three categories and observe
 ![image](output/Venn_most_prominent_lexical_fields_across_categories.jpg)
 
 
-
+<img src="output/wordcloud_edge.png" width="30%" height="30%">
 ## Can we place the Pope on a political spectrum?
 Partie sur la PCA
