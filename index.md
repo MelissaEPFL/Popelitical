@@ -35,7 +35,7 @@ We observe that the results are coherent for both political parties (with most f
 ### Do the lexical fields of the Pope correlate with those of the two parties?
 Then, we further investigate the correlation in the use of lexical fields between each group.
 
-<img src="output/Correlation_matrix_each_category.jpg" width="65%" height="65%">
+<img src="output/Correlation_matrix_each_category.jpg" width="60%" height="60%">
 
 The lexical fields between Republicans and Democrats are highly correlated (0.94). This seems consistent because even though the two parties approach issues differently and have different opinions, they both most likely use very political language. In contrast, the Pope's lexical fields correlate poorly with those of both political parties, but slightly more with those of the Republicans (0.45) than those of the Democrats (0.39).  
 
