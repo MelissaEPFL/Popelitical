@@ -29,7 +29,7 @@ We begin our investigation by looking at how our three categories of speakers ch
 
 ![image](output/Top_lexical_fields_each_category.jpg)
 
-Those first results make a lot of sense as they show that our two political categories often talk about government, business, leader, politics and law while the pope prefers to talk about religion, divine and worship-related topics. As an example, the worship lexical field score increases when the pope uses words such as : *pray*, *lord*, *bless*, *glory* or *cult*. At the bottom of the graph, we find the most rarely used lexical fields with notably the *exotic*, *smell* and *ugliness* lexical fields. We can also note that the Pope is a true saint as he never uses swearing words!
+Those first results make a lot of sense as they show that our two political categories often talk about *government*, *business*, *leader*, *politics* and *law* while the Pope prefers to talk about *religion*, *divine* and worship-related topics. As an example, the *worship* lexical field score increases when the Pope uses words such as : pray, lord, bless, glory or cult. At the bottom of the graph, we find the most rarely used lexical fields with notably the *exotic*, *smell* and *ugliness* lexical fields. We can also note that the Pope is a true saint as he never uses swearing words!
 
 ## Do they talk about similar topics?
 
