@@ -11,15 +11,39 @@ We chose to place the Pope on the **American bipartite political spectrum** whic
   
 We divided our speakers into three categories: **Democrats**, **Republicans** and the **Pope**. Here we briefly summarize which speakers we chose to integrate into our analysis and how many quotes they pronouced along the Quotebank data sets between 2015 and 2020.
 
-| Political figure | Party      |Number of quotations |     | Political figure | Party      |Number of quotations |  
-|------------------|------------|----------------------|    |------------------|------------|----------------------| 
-| Elizabeth Warren | Democratic | 48'397               |    | Kamala Harris    | Democratic | 19'091               | 
-| Bernie Sanders   | Democratic | 84'018               |    | Pete Buttigieg   | Democratic | 24'523              | 
-| Hillary Clinton  | Democratic | 95'458               |    | Alexandria Ocasio-Cortez  | Democratic | 18'653     | 
-| Ted Cruz         | Republican| 46'301               |  | Marco Rubio      | Republican| 41'650               |
-| Mike Pence       | Republican| 46'893               |  | Ben Carson     | Republican| 22'448                 |
-| Mitt Romney      | Republican| 10'651               |  | Nikki Haley     | Republican| 24'533               |   
+<style>
+.heatMap {
+    width: 80%;
+    text-align: center;
+}
+.heatMap th {
+background: grey;
+word-wrap: break-word;
+text-align: center;
+}
+.heatMap tr:nth-child(1) { background: blue; }
+.heatMap tr:nth-child(2) { background: blue; }
+.heatMap tr:nth-child(3) { background: blue; }
+.heatMap tr:nth-child(4) { background: red; }
+.heatMap tr:nth-child(5) { background: red; }
+.heatMap tr:nth-child(6) { background: red; }
+.heatMap tr:nth-child(7) { background: yellow; }
+</style>
+
+<div class="heatMap">
+
+
+| Political figure | Party      |Number of quotations | Political figure | Party      |Number of quotations |  
+|------------------|------------|----------------------|------------------|------------|----------------------| 
+| Elizabeth Warren | Democratic | 48'397               | Kamala Harris    | Democratic | 19'091               | 
+| Bernie Sanders   | Democratic | 84'018               | Pete Buttigieg   | Democratic | 24'523              | 
+| Hillary Clinton  | Democratic | 95'458               | Alexandria Ocasio-Cortez  | Democratic | 18'653     | 
+| Ted Cruz         | Republican| 46'301               | Marco Rubio      | Republican| 41'650               |
+| Mike Pence       | Republican| 46'893               | Ben Carson     | Republican| 22'448                 |
+| Mitt Romney      | Republican| 10'651               | Nikki Haley     | Republican| 24'533               |   
 | Pope Francis        | Apolitical| 102'993            |
+  
+</div>
   
 #### tentative de tableau don't worry  
 | Political figure  |  Party | Number of quotations  |
