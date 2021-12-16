@@ -54,7 +54,9 @@ We also wanted to visualize how the 15 most common lexical fields used by are ou
 
 ![image](output/Venn_most_prominent_lexical_fields_across_categories.jpg)
 
-Interestingly, we immediately notice that the only lexical fields that are shared by our politicians and by the pope are giving (which includes words like "give", "need", "offer", "fund", "donate", "sacrifice", "pay") positive emotions and negative emotions. None of those three lexical fields has really anything to do with politics. Then, we can observe that the pope shares the lexical field children with the democrates, which makes sense as 
+We immediately notice that the only lexical fields that are shared by our politicians and by the pope are: giving (which includes words like "give", "need", "offer", "fund", "donate", "sacrifice", "pay"), positive emotions and negative emotions. Interestingly, none of those three lexical fields has really anything to do with politics. Then, we can observe that the pope shares the children lexical field with the Democratss, which makes sense as the Democratic party tends to have more social and family friendly values than the Republican party. We can also see that the pope-specific lexical fields all concerns religious topics (religion, worship, divine, wedding, death) and human-oriented topics (family, home, love, communication, optimism). 
+
+Those key topi is particularly coherent with his role as the head of the Catholic Church and with the overall importance of the Catholic re
 
 ![image](output/network_sparse.png)
 
