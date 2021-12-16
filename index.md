@@ -36,7 +36,7 @@ Those first results make a lot of sense as they show that our two political cate
 As a next analysis, we wanted to determine how similar or different the usage of lexical fields was across our three groups. One first simple idea consisted in computing the correlation matrix (Pearson's correlation coefficient) of the 200 mean lexical fields scores of our three categories.
 
 <a href="link" style="text-align: center">
-<img src="output/Correlation_matrix_each_category.jpg" align = "center" width="60%" height="60%">
+<img src="output/Correlation_matrix_each_category.jpg" align = "center" width="60%" height="60%"> </a>
 
 The lexical fields scores of the Republicans and Democrats are very strongly correlated (0.94). This could be due to the fact that even though the two parties have different opinions, they allocate similar importance to the same topics. On the other hand, the pope's lexical fields scores correlate more modestly with those of of the Democrats and Repuclicans. From this measure, he seems to be slightly closer from the Republicans (0.45) than from the Democrats (0.39).  
 
@@ -62,7 +62,7 @@ We immediately notice that the two politcal parties share most of their lexical 
 We were also interested by the 
 
 <a href="link" style="text-align: center">
-<img src="output/wordcloud_edge.png" align = "center" width="60%" height="60%">
+<img src="output/wordcloud_edge.png" align = "center" width="60%" height="60%"> </a>
 
 ![image](output/network_sparse.png)
 
