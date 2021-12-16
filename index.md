@@ -82,3 +82,9 @@ The lexical fields that co-occur the most frequently are the religous ones: *wor
 
 ## Conclusion
 
+From this analysis, we can determine that while the pope shares common traits with both political parties, he does not appear to be part of the American political spectrum and seems truly apolitical. However, this does not mean that he has no influence on societal and political issues. Indeed, a quote can be said without a political agenda and contain non-political lexical categories but still have a political impact. For example, when the pope speaks out on issues such as abortion:
+> "It is horrific even to think that there are children, victims of abortion, who will never see the light of day."
+
+The categories of lexical fields detected are *horror*, *health*, *suffering*, *fire* and *torment*. These categories are not strictly speaking politicized, however we cannot minimize the decisive influence the pope has on the abortion ban in many countries.
+
+Finally, we can ask whether an analysis based on quotes relayed by the press allows for an accurate analysis of a speaker. Indeed, there may be a journalistic bias where the quotes most likely to appear in an article are those most likely to attract the reader. Therefore, possibly not faithfully representing the speaker.
