@@ -75,10 +75,13 @@ Alternatively, we present here the same results as in the previous graph for a h
 
 
 
-<img src="output/wordcloud_edge.png" width="30%" height="30%">
+<img src="output/wordcloud_edge.png" width="60%" height="60%">
 
 ## Can we place the Pope on a political spectrum?
 Partie sur la PCA
+
+![image](output/PCA_visualization.png)
+
 
 
 
