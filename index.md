@@ -21,9 +21,9 @@ We divided our speakers into three categories: **Democrats**, **Republicans** an
 | Mitt Romney      | Republican| 10'651               |  | Nikki Haley     | Republican| 24'533               |   
 | Pope Francis        | Apolitical| 102'993            |
   
-  
+#### tentative de tableau don't worry  
 | Political figure  |  Party | Number of quotations  |
-|---|---|---|
+|-------------------|--------|-----------------------| 
 | Elizabeth Warren  | Democratic  |  48'397 |
 | Bernie Sanders  | Democratic  | 84'018  |
 | Hillary Clinton  | Democratic  | 95'458   |
@@ -39,6 +39,7 @@ We divided our speakers into three categories: **Democrats**, **Republicans** an
 | Nikki Haley  | Republican  | 24'533   |
 |---------------------------|-------------|----------|
 | Pope Francis  | Apolitical  | 102'993  |
+
 ## What topics do they like to talk about? 
   
 We begin our investigation by looking at how our three categories of speakers choose their words and what topics they fancy talking about the most. To do so, we analyzed the prevalence, summarized by a mean score, of 200 distinct lexical fields within the quotation corpus of our three categories:
