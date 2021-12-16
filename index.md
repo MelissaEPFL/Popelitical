@@ -21,6 +21,24 @@ We divided our speakers into three categories: **Democrats**, **Republicans** an
 | Mitt Romney      | Republican| 10'651               |  | Nikki Haley     | Republican| 24'533               |   
 | Pope Francis        | Apolitical| 102'993            |
   
+  
+| Political figure  |  Party | Number of quotations  |
+|---|---|---|
+| Elizabeth Warren  | Democratic  |  48'397 |
+| Bernie Sanders  | Democratic  | 84'018  |
+| Hillary Clinton  | Democratic  | 95'458   |
+| Kamala Harris  |  Democratic | 19'091   |
+| Pete Buttigieg  | Democratic   |  24'523     |
+| Alexandria Ocasio-Cortez  | Democratic  | 18'653   |
+|---|---|---|
+| Ted Cruz  | Republican  |  46'301  |
+| Mike Pence   | Republican  |  46'893  |
+| Mitt Romney   | Republican  |  10'651  |
+| Marco Rubio  | Republican  | 41'650   |
+| Ben Carson  | Republican  | 22'448   |
+| Nikki Haley  | Republican  | 24'533   |
+|---|---|---|
+| Pope Francis  | Apolitical  | 102'993  |
 ## What topics do they like to talk about? 
   
 We begin our investigation by looking at how our three categories of speakers choose their words and what topics they fancy talking about the most. To do so, we analyzed the prevalence, summarized by a mean score, of 200 distinct lexical fields within the quotation corpus of our three categories:
