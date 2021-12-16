@@ -46,7 +46,7 @@ We then decided to focus on the 15 most prominent lexical fields of our three ca
 
 As we can see, the Pope seems to leave political topics such as *government*, *business*, *politics*, *leader*, *law*, *money*, *banking*, *dispute* and *payment* to the real politicians. As the head of the Church, he is logically more commonly refering to religion-related topics such as *worship*, *religion*, *love*, *divine*, *death* and *wedding* than the politicians. Interestingly, the lexical fields of the *family*, *children*, *home*, *positive emotions* and *optimism* are also dominated by the Pope. Concerning the *family*, *children* and *home* lexical fields, it might be due to the fact that the Pope uses the terms "brothers", "sisters", "father", "mother" and "son" a lot, even though he barely uses the litteral meaning of those terms. Concerning the *optimism* and *positive emotions* lexical fields, they include terms like compassion, forgiveness, love, kindness, hope and faith which can all be seen as Christian values.
 
-Alternatively, we present here the same results as in the previous graph for a hand-picked selection of lexical field using a radio chart in order to emphasize how different the profile of the pope is in comparison with the profiles of the Democrats and Republicans.
+Alternatively, we present here the same results as in the previous graph for a hand-picked selection of lexical field using a radio chart in order to emphasize how different the profile of the Pope is in comparison with the profiles of the Democrats and Republicans.
 
 {% include radar_chart_features.html %}
 
