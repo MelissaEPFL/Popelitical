@@ -22,25 +22,6 @@ We divided our speakers into three categories: **Democrats**, **Republicans** an
 |Alexandria Ocasio-Cortez  | Democratic | 18'653     |   |Nikki Haley     | Republican| 24'533               |   
 | Pope Francis        | Apolitical| 102'993          |
   
-  
-#### tentative de tableau don't worry  
-| Political figure  |  Party | Number of quotations  |
-|-------------------|--------|-----------------------| 
-| Elizabeth Warren  | Democratic  |  48'397 |
-| Bernie Sanders  | Democratic  | 84'018  |
-| Hillary Clinton  | Democratic  | 95'458   |
-| Kamala Harris  |  Democratic | 19'091   |
-| Pete Buttigieg  | Democratic   |  24'523     |
-| Alexandria Ocasio-Cortez  | Democratic  | 18'653   |
-|---------------------------|-------------|----------|
-| Ted Cruz  | Republican  |  46'301  |
-| Mike Pence   | Republican  |  46'893  |
-| Mitt Romney   | Republican  |  10'651  |
-| Marco Rubio  | Republican  | 41'650   |
-| Ben Carson  | Republican  | 22'448   |
-| Nikki Haley  | Republican  | 24'533   |
-|---------------------------|-------------|----------|
-| Pope Francis  | Apolitical  | 102'993  |
 
 ## What topics do they like to talk about? 
   
@@ -69,10 +50,13 @@ Alternatively, we present here the same results as in the previous graph for a h
 
 {% include radar_chart_features.html %}
 
-
+We also wanted to visualize how the 15 most common lexical fields used by are our three categories are shared. To do so, we built the following Venn diagram:
 
 ![image](output/Venn_most_prominent_lexical_fields_across_categories.jpg)
 
+Interestingly, we immediately notice that the only lexical fields that are shared by our politicians and by the pope are giving (which includes words like "give", "need", "offer", "fund", "donate", "sacrifice", "pay") positive emotions and negative emotions. None of those three lexical fields has really anything to do with politics. Then, we can observe that the pope shares the lexical field children with the democrates, which makes sense as 
+
+![image](output/network.png)
 
 
 <img src="output/wordcloud_edge.png" width="60%" height="60%">
