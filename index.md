@@ -56,7 +56,7 @@ We also wanted to visualize how the 15 most common lexical fields used by are ou
 
 Interestingly, we immediately notice that the only lexical fields that are shared by our politicians and by the pope are giving (which includes words like "give", "need", "offer", "fund", "donate", "sacrifice", "pay") positive emotions and negative emotions. None of those three lexical fields has really anything to do with politics. Then, we can observe that the pope shares the lexical field children with the democrates, which makes sense as 
 
-![image](output/network.png)
+![image](output/network_sparse.png)
 
 
 <img src="output/wordcloud_edge.png" width="60%" height="60%">
