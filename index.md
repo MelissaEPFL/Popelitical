@@ -35,8 +35,8 @@ Those first results make a lot of sense as they show that our two political cate
 
 As a next analysis, we wanted to determine how similar or different the usage of lexical fields was across our three groups. One first simple idea consisted in computing the correlation matrix (Pearson's correlation coefficient) of the 200 mean lexical fields scores of our three categories.
 
-<a href="link" style="text-align: center">
-<img src="output/Correlation_matrix_each_category.jpg" align = "center" width="60%" height="60%"> </a>
+
+<img align = "center" src="output/Correlation_matrix_each_category.jpg" width="60%" height="60%"> 
 
 The lexical fields scores of the Republicans and Democrats are very strongly correlated (0.94). This could be due to the fact that even though the two parties have different opinions, they allocate similar importance to the same topics. On the other hand, the pope's lexical fields scores correlate more modestly with those of of the Democrats and Repuclicans. From this measure, he seems to be slightly closer from the Republicans (0.45) than from the Democrats (0.39).  
 
@@ -59,22 +59,26 @@ We immediately notice that the two politcal parties share most of their lexical 
 
 ## What does the pope say? 
 
-We were also interested by the 
+We were also interested by the way the pope expresses himself. First, we compiled his most commonly used words, their size corresponding to their frequency of occurence, outside of stop words:
 
-<a href="link" style="text-align: center">
-<img src="output/wordcloud_edge.png" align = "center" width="60%" height="60%"> </a>
+<img align = "center" src="output/wordcloud_edge.png" width="60%" height="60%"> 
+
+We can appreciate how those words are coherent with our previous lexical fields results. 
+
+Next, we were also curious to see how the pope's lexical fields co-occur within his statements. To do so, we counted the times when each pair of lexical fields co-occured within one of the pope's 100'000 quotes and visualized the most common pairs with a network graph. In the following plot, each node is one lexical field, the node size correspond to the overall importance of the lexical field along the pope's corpus and finally the edges widths correspond to the frequency of co-occurence of a pair of lexical fields, the larger, the more frequent. To produce a more readable plot, we only show the co-occurences that happened at least 5'000 times. The most common pair can be found in one quarter of the pope's quotes.
 
 ![image](output/network_sparse.png)
 
-
+The lexical fields that co-occur the most frequently are the religous ones: *worship*, *divine* and *religion*. Then we can see that the family-related lexical fields (*family*, *children*, *home*) co-occur together pretty often while the positive emotions related fields (*positive emotions*, *optimism*, *love*) co-occur together too. Moreover, it seems that the lexical fields of *positive emotions*, *worship* and *divine act like hub nodes and connect several of the other fields which mean that those topics are quite central in the pope's language. Finally, we can also notice that all the politics-related topics (*leader*, *business*, *politics*, *government...), besides appearing quite rarely in the pope's statements, barely co-occur with any of the pope's other lexical fields. In other words, the pope does not seem to disguise political opinions as religious statements.
 
 
 ## Can we place the Pope on a political spectrum?
-Partie sur la PCA
+
+
 
 ![image](output/PCA_visualization.png)
 
 
 
+## Conclusion
 
-Small disclaimer concerning the fact that we use quotes relayed by the media: there is a bias
