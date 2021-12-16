@@ -30,14 +30,14 @@ We divided our speakers into three categories: **Democrats**, **Republicans** an
 | Kamala Harris  |  Democratic | 19'091   |
 | Pete Buttigieg  | Democratic   |  24'523     |
 | Alexandria Ocasio-Cortez  | Democratic  | 18'653   |
-|---|---|---|
+|---------------------------|-------------|----------|
 | Ted Cruz  | Republican  |  46'301  |
 | Mike Pence   | Republican  |  46'893  |
 | Mitt Romney   | Republican  |  10'651  |
 | Marco Rubio  | Republican  | 41'650   |
 | Ben Carson  | Republican  | 22'448   |
 | Nikki Haley  | Republican  | 24'533   |
-|---|---|---|
+|---------------------------|-------------|----------|
 | Pope Francis  | Apolitical  | 102'993  |
 ## What topics do they like to talk about? 
   
