@@ -73,10 +73,21 @@ The lexical fields that co-occur the most frequently are the religous ones: *wor
 
 
 ## Can we place the pope on a political spectrum?
-Bah pas vraiment ma foi
 
+Our main approach to place the pope on the american political spectrum consisted in applying a dimensionality reduction method on several meaningful features extracted from the quotes corpus of each of our spearkers of interest. Initially, we extracted more than 200 features related to the lexical fields usage, vocabulary richness and personnal pronouns usage for each speakers. After feature selection, only 29 features are kept and used to perform a principal component analysis (PCA):
 
 ![image](output/PCA_visualization.png)
+
+The obtained results are interesting for several reasons:
+* All the politicians are more or less aligned along one single spectrum
+* Democrats and Republicans are nicely separated
+* The pope is far away from all politicians
+* Principal component 1 is nicely capturing the Democrats vs Republicans spectrum
+* Principal component 2 seems to capture the pope uniqueness
+
+Then we moved on interpreting more precisely what our two components captures:
+
+![image](output/PCA_features_importance.jpg)
 
 
 
