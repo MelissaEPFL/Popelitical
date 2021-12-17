@@ -87,7 +87,7 @@ The obtained results are interesting for several reasons:
 
 Then we moved on interpreting more precisely what our two principal components capture:
 
-![image](output/PCA_features_importance.jpg)
+![image](output/PCA_features_importance.png)
 
 We can observe that our first component, discriminates the Republicans from the Democrats by capturing the scores of lexical fields such as *terrorism* or *military* for the Republican side, and *youth* or *children* for the Democrats side. Along this specific axis, the pope is placed towards the Democrats side. However, this does not imply that the pope is "democrat-like", but rather that the pope does not fancy war-related topics. Moreover, the lexical field *children* is among the most prominent lexical fields of both the pope and the Democrats, even if they use it in very different contexts. 
 
