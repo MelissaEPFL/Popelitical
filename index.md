@@ -89,7 +89,7 @@ Then we moved on interpreting more precisely what our two principal components c
 
 ![image](output/PCA_features_importance.jpg)
 
-
+We can observe that our first component, that captures the Democrats - Republicans spectrum
 
 ## Conclusion
 
@@ -100,5 +100,5 @@ The categories of lexical fields detected are *horror*, *health*, *suffering*, *
 
 Finally, we can ask whether an analysis based on quotes relayed by the press allows for an accurate analysis of a speaker. Indeed, there may be a journalistic bias where the quotes most likely to appear in an article are those most likely to attract the reader. Therefore, possibly not faithfully representing the speaker.
 
-<img src="meme.jpg" width="50%" height="50%"> 
+<img src="output/meme.jpg" width="50%" height="50%"> 
 
