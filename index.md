@@ -104,5 +104,7 @@ The categories of lexical fields detected are *horror*, *health*, *suffering*, *
 
 Finally, we can ask whether an analysis based on quotes relayed by the press allows for an accurate analysis of a speaker. Indeed, there may be a journalistic bias where the quotes most likely to appear in an article are those most likely to attract the reader. Therefore, possibly not faithfully representing the speaker.
 
+### One last word
+
 <img src="output/meme.jpg" width="50%" height="50%"> 
 
