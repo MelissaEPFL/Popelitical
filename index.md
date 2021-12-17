@@ -74,7 +74,7 @@ The lexical fields that co-occur the most frequently are the religous ones: *wor
 
 ## Can we place the pope on a political spectrum?
 
-Our main approach to place the pope on the american political spectrum consisted in applying a dimensionality reduction method on several meaningful features extracted from the quotes corpus of each of our spearkers of interest. Initially, we extracted more than 200 features related to the lexical fields usage, vocabulary richness and personnal pronouns usage for each speakers. After feature selection, only 29 features are kept and used to perform a principal component analysis (PCA):
+Our main approach to place the pope on the american political spectrum consisted in applying a dimensionality reduction method on several meaningful features extracted from the quotes corpus of each of our spearkers of interest. Initially, we extracted more than 200 features related to the lexical fields usage, vocabulary richness and personnal pronouns usage for each speakers. After feature selection, only 29 features were kept and used to perform a principal component analysis (PCA):
 
 ![image](output/PCA_visualization.png)
 
@@ -83,15 +83,15 @@ The obtained results are interesting for several reasons:
 * Democrats and Republicans are nicely separated
 * The pope is far away from all politicians
 * Principal component 1 is nicely capturing the Democrats vs Republicans spectrum
-* Principal component 2 seems to capture the pope uniqueness
+* Principal component 2 seems to capture the pope's uniqueness
 
 Then we moved on interpreting more precisely what our two principal components capture:
 
 ![image](output/PCA_features_importance.jpg)
 
-We can observe that our first component, discriminates the Republicans from the Democrats by capturing the score of the lexical fields *terrorism*, *power*, *war*, *military* and *leader*, for the Republican side, and the scores of the lexical fields *home*, *children*, *youth* for the Democrats side. Along this specific axis, the pope is placed towards the Democrats side. However, this does not imply that the pope is "democratic-like", but rather that the pope does not fancy war-related topics. Moreover, *home*, *children* and *youth* are among the most prominent lexical fields of both the pope and the Democrats. 
+We can observe that our first component, discriminates the Republicans from the Democrats by capturing the scores of lexical fields such as *terrorism* or *military* for the Republican side, and *youth* or *children* for the Democrats side. Along this specific axis, the pope is placed towards the Democrats side. However, this does not imply that the pope is "democrat-like", but rather that the pope does not fancy war-related topics. Moreover, the lexical field *children* is among the most prominent lexical fields of both the pope and the Democrats, even if they use it in very different contexts. 
 
-Our second component discriminates the pope from the politicians notably by capturing the score of the lexical fields *divine* and *optimism*, for the pope side, and the scores of the lexical fields *journalism*, *negociate*, *blue collar jobs* and *occupation* for the politicians side. In other words, this component differentiates the pope from the rest of the speakers by his extensive use of religious terms and by his rare use of political terms. For example the lexical fields *blue collar jobs* and *occupation* include terms like "retirement", "employment", "job", "worker" and "salary". Finally, it is interesting
+Our second component discriminates the pope from the politicians notably by capturing the scores of the lexical fields *divine* and *optimism* for the pope side, and the scores of the lexical fields *politics*, *blue collar jobs*, *occupation* or *leader* for the politicians side. In other words, this component differentiates the pope from the rest of the speakers by his extensive use of religious terms and by his rare use of political terms. For example the lexical fields *blue collar jobs*, *occupation* and *politics* include terms like "retirement", "employment", "job", "worker", "salary", "nation", "democracy" or "election".
 
 
 
