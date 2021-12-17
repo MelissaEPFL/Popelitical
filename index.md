@@ -85,7 +85,7 @@ The obtained results are interesting for several reasons:
 * Principal component 1 is nicely capturing the Democrats vs Republicans spectrum
 * Principal component 2 seems to capture the pope uniqueness
 
-Then we moved on interpreting more precisely what our two components captures:
+Then we moved on interpreting more precisely what our two principal components captures using :
 
 ![image](output/PCA_features_importance.jpg)
 
@@ -99,3 +99,6 @@ From this analysis, we can determine that while the pope shares common traits wi
 The categories of lexical fields detected are *horror*, *health*, *suffering*, *fire* and *torment*. These categories are not strictly speaking politicized, however we cannot minimize the decisive influence the pope has on the abortion ban in many countries.
 
 Finally, we can ask whether an analysis based on quotes relayed by the press allows for an accurate analysis of a speaker. Indeed, there may be a journalistic bias where the quotes most likely to appear in an article are those most likely to attract the reader. Therefore, possibly not faithfully representing the speaker.
+
+
+![image](0fbac148-bb46-4cb5-aac6-924ac4f35efe.jpg)
