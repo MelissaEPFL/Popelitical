@@ -102,7 +102,7 @@ From this analysis, we can determine that while the pope shares common traits wi
 
 The categories of lexical fields detected are *horror*, *health*, *suffering*, *fire* and *torment*. These categories are not strictly speaking politicized, however we cannot minimize the decisive influence the pope has on the abortion ban in many countries.
 
-Finally, we can ask whether an analysis based on quotes relayed by the press allows for an accurate analysis of a speaker. Indeed, there may be a journalistic bias where the quotes most likely to appear in an article are those most likely to attract the reader. Therefore, possibly not faithfully representing the speaker.
+Finally, we can ask whether an analysis based on quotes relayed by the press allows for an accurate analysis of a speaker. Indeed, there may be a journalistic bias where the quotes most likely to appear in an article are those most likely to attract the reader. Therefore the quotes appearing on Quotebank may possibly not faithfully represent the speakers.
 
 ### One last word
 
