@@ -106,4 +106,4 @@ Finally, we can ask whether an analysis based on quotes relayed by the press all
 
 ### One last word
 
-<img src="output/meme.jpg" width="60%" height="60%"> 
+<img src="output/meme.jpg" width="100%" height="100%"> 
