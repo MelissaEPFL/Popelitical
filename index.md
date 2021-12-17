@@ -89,7 +89,11 @@ Then we moved on interpreting more precisely what our two principal components c
 
 ![image](output/PCA_features_importance.jpg)
 
-We can observe that our first component, that captures the Democrats - Republicans spectrum
+We can observe that our first component, discriminates the Republicans from the Democrats by capturing the score of the lexical fields *terrorism*, *power*, *war*, *military* and *leader*, for the Republican side, and the scores of the lexical fields *home*, *children*, *youth* for the Democrats side. Along this specific axis, the pope is placed towards the Democrats side. However, this does not imply that the pope is "democratic-like", but rather that the pope does not fancy war-related topics. Moreover, *home*, *children* and *youth* are among the most prominent lexical fields of both the pope and the Democrats. 
+
+Our second component discriminates the pope from the politicians notably by capturing the score of the lexical fields *divine* and *optimism*, for the pope side, and the scores of the lexical fields *journalism*, *negociate*, *blue collar jobs* and *occupation* for the politicians side. In other words, this component differentiates the pope from the rest of the speakers by his extensive use of religious terms and by his rare use of political terms. For example the lexical fields *blue collar jobs* and *occupation* include terms like "retirement", "employment", "job", "worker" and "salary". Finally, it is interesting
+
+
 
 ## Conclusion
 
