@@ -85,7 +85,7 @@ The obtained results are interesting for several reasons:
 * Principal component 1 is nicely capturing the Democrats vs Republicans spectrum
 * Principal component 2 seems to capture the pope uniqueness
 
-Then we moved on interpreting more precisely what our two principal components captures using :
+Then we moved on interpreting more precisely what our two principal components capture:
 
 ![image](output/PCA_features_importance.jpg)
 
@@ -100,5 +100,5 @@ The categories of lexical fields detected are *horror*, *health*, *suffering*, *
 
 Finally, we can ask whether an analysis based on quotes relayed by the press allows for an accurate analysis of a speaker. Indeed, there may be a journalistic bias where the quotes most likely to appear in an article are those most likely to attract the reader. Therefore, possibly not faithfully representing the speaker.
 
-<img align = "center" src="0fbac148-bb46-4cb5-aac6-924ac4f35efe.jpg" width="100%"> 
+<img src="meme.jpg" width="50%" height="50%"> 
 
