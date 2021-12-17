@@ -89,20 +89,21 @@ Then we moved on interpreting more precisely what our two principal components c
 
 ![image](output/PCA_features_importance.png)
 
-We can observe that our first component discriminates the Republicans from the Democrats by capturing the scores of lexical fields such as *terrorism* or *military* for the Republican side, and *youth* or *children* for the Democrats side. Along this specific axis, the pope is placed towards the Democrats side. However, this does not imply that the pope is "democrat-like", but rather that the pope does not fancy war-related topics. Moreover, the lexical field *children* is among the most prominent lexical fields of both the pope and the Democrats, even if they use it in very different contexts. 
+We can observe that our first component discriminates the Republicans from the Democrats by capturing the scores of lexical fields such as *terrorism* and *military* for the Republican side, and *youth* and *children* for the Democrats side. Along this specific axis, the pope is placed in a central position. 
 
-Our second component discriminates the pope from the politicians notably by capturing the scores of the lexical fields *divine* and *optimism* for the pope side, and the scores of the lexical fields *politics*, *blue collar jobs*, *occupation* or *leader* for the politicians side. In other words, this component differentiates the pope from the rest of the speakers by his extensive use of religious terms and by his rare use of political terms. For example the lexical fields *blue collar jobs*, *occupation* and *politics* include terms like "retirement", "employment", "job", "worker", "salary", "nation", "democracy" or "election".
+Our second component discriminates the pope from the politicians notably by capturing the scores of the lexical fields *divine* and *optimism* for the pope side, and the scores of the lexical fields *politics*, *blue collar jobs*, *occupation* and *leader* for the politicians side. In other words, this component differentiates the pope from the rest of the speakers by his extensive use of religious terms and by his rare use of political terms. For example the lexical fields *blue collar jobs*, *occupation* and *politics* include terms like "retirement", "employment", "job", "worker", "salary", "nation", "democracy" or "election".
 
 
 
 ## Conclusion
 
-From this analysis, we can determine that while the pope shares common traits with both political parties, he does not appear to be part of the American political spectrum and seems truly apolitical. However, this does not mean that he has no influence on societal and political issues. Indeed, a quote can be said without a political agenda and contain non-political lexical categories but still have a political impact. For example, when the pope speaks out on issues such as abortion:
+We can determine from our analysis that even though the pope shares some traits with both political parties, he does not appear to talk like a true politician from the America political spectrum. However, this does not mean that he has no influence on societal and political issues. Indeed, our approach is not bullet-proof as a quote can have a low score for the politics-related lexical fields but still present a strong political opinion. For example, when the pope speaks about an issue like abortion:
+
 > "It is horrific even to think that there are children, victims of abortion, who will never see the light of day."
 
-The categories of lexical fields detected are *horror*, *health*, *suffering*, *fire* and *torment*. These categories are not strictly speaking politicized, however we cannot minimize the decisive influence the pope has on the abortion ban in many countries.
+For this quote, the detected lexical fields are *horror*, *health*, *suffering*, *fire* and *torment*. These categories are not directly related to politics but we cannot minimize the decisive influence that the pope has on the abortion ban in countries with an important catholic population.
 
-Finally, we can ask whether an analysis based on quotes relayed by the press allows for an accurate analysis of a speaker. Indeed, there may be a journalistic bias where the quotes most likely to appear in an article are those most likely to attract the reader. Therefore the quotes appearing on Quotebank may possibly not faithfully represent the speakers.
+In conclusion, we can ask whether an analysis based on quotes relayed by the press allows for an accurate analysis of a speaker. Indeed, there may be a journalistic bias towards polemic and sensationalist quotes to increase the website viewership. Therefore, it is possible that the quotes from the Quotebank dataset do not always faithfully represent their authors opinions.
 
 ### One last word
 
